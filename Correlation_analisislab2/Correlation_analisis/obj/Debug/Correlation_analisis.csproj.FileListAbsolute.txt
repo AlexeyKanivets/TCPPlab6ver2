@@ -1,0 +1,27 @@
+c:\users\dima\documents\visual studio 2015\Projects\Correlation_analisis\Correlation_analisis\bin\Debug\Correlation_analisis.exe.config
+c:\users\dima\documents\visual studio 2015\Projects\Correlation_analisis\Correlation_analisis\bin\Debug\Correlation_analisis.exe
+c:\users\dima\documents\visual studio 2015\Projects\Correlation_analisis\Correlation_analisis\bin\Debug\Correlation_analisis.pdb
+c:\users\dima\documents\visual studio 2015\Projects\Correlation_analisis\Correlation_analisis\obj\Debug\Correlation_analisis.csprojResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2015\Projects\Correlation_analisis\Correlation_analisis\obj\Debug\Correlation_analisis.Form1.resources
+c:\users\dima\documents\visual studio 2015\Projects\Correlation_analisis\Correlation_analisis\obj\Debug\Correlation_analisis.Properties.Resources.resources
+c:\users\dima\documents\visual studio 2015\Projects\Correlation_analisis\Correlation_analisis\obj\Debug\Correlation_analisis.csproj.GenerateResource.Cache
+c:\users\dima\documents\visual studio 2015\Projects\Correlation_analisis\Correlation_analisis\obj\Debug\Correlation_analisis.exe
+c:\users\dima\documents\visual studio 2015\Projects\Correlation_analisis\Correlation_analisis\obj\Debug\Correlation_analisis.pdb
+C:\Users\Alexey\Downloads\Correlation_analisis (4)\Correlation_analisis\Correlation_analisis\bin\Debug\Correlation_analisis.exe.config
+C:\Users\Alexey\Downloads\Correlation_analisis (4)\Correlation_analisis\Correlation_analisis\bin\Debug\Correlation_analisis.exe
+C:\Users\Alexey\Downloads\Correlation_analisis (4)\Correlation_analisis\Correlation_analisis\bin\Debug\Correlation_analisis.pdb
+C:\Users\Alexey\Downloads\Correlation_analisis (4)\Correlation_analisis\Correlation_analisis\obj\Debug\Correlation_analisis.csprojResolveAssemblyReference.cache
+C:\Users\Alexey\Downloads\Correlation_analisis (4)\Correlation_analisis\Correlation_analisis\obj\Debug\Correlation_analisis.Form1.resources
+C:\Users\Alexey\Downloads\Correlation_analisis (4)\Correlation_analisis\Correlation_analisis\obj\Debug\Correlation_analisis.Properties.Resources.resources
+C:\Users\Alexey\Downloads\Correlation_analisis (4)\Correlation_analisis\Correlation_analisis\obj\Debug\Correlation_analisis.csproj.GenerateResource.Cache
+C:\Users\Alexey\Downloads\Correlation_analisis (4)\Correlation_analisis\Correlation_analisis\obj\Debug\Correlation_analisis.exe
+C:\Users\Alexey\Downloads\Correlation_analisis (4)\Correlation_analisis\Correlation_analisis\obj\Debug\Correlation_analisis.pdb
+D:\Work\Visualstudio15proj\Correlation_analisislab2\Correlation_analisis\bin\Debug\Correlation_analisis.exe.config
+D:\Work\Visualstudio15proj\Correlation_analisislab2\Correlation_analisis\bin\Debug\Correlation_analisis.exe
+D:\Work\Visualstudio15proj\Correlation_analisislab2\Correlation_analisis\bin\Debug\Correlation_analisis.pdb
+D:\Work\Visualstudio15proj\Correlation_analisislab2\Correlation_analisis\obj\Debug\Correlation_analisis.csprojResolveAssemblyReference.cache
+D:\Work\Visualstudio15proj\Correlation_analisislab2\Correlation_analisis\obj\Debug\Correlation_analisis.Form1.resources
+D:\Work\Visualstudio15proj\Correlation_analisislab2\Correlation_analisis\obj\Debug\Correlation_analisis.Properties.Resources.resources
+D:\Work\Visualstudio15proj\Correlation_analisislab2\Correlation_analisis\obj\Debug\Correlation_analisis.csproj.GenerateResource.Cache
+D:\Work\Visualstudio15proj\Correlation_analisislab2\Correlation_analisis\obj\Debug\Correlation_analisis.exe
+D:\Work\Visualstudio15proj\Correlation_analisislab2\Correlation_analisis\obj\Debug\Correlation_analisis.pdb
